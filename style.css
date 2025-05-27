@@ -13,6 +13,7 @@ body{
     justify-content: center;
     margin: 11.25rem 18.75rem;
     height: 100vh;
+    margin: auto;
     
 }
 main{
@@ -82,7 +83,7 @@ a{
 
 @media (max-width: 375px) {
     body{
-        margin: 5rem 2rem;
+        margin: auto;
     }
     main{
         width: 17rem;
